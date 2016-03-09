@@ -3,3 +3,12 @@
     flex-flow: row wrap;
     justify-content: space-around;
 }
+
+.flex-1{
+    flex: 1;
+    min-width: 65vh;
+}
+
+.header a {
+    font-size: 3em;
+}
